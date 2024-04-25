@@ -30,8 +30,8 @@ class PerguntaAppState extends State<PerguntaApp> {
         children: [
           Questao(perguntas[perguntaSelecionada]),
           Resposta('Resposta 1', responder),
-          Resposta('Resposta 1', responder),
-          Resposta('Resposta 1', responder),
+          Resposta('Resposta 2', responder),
+          Resposta('Resposta 3', responder),
         ],
       ),
     ));
