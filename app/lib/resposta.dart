@@ -18,6 +18,6 @@ class Resposta extends StatelessWidget {
           onPressed: quandoSelecionado,
           child: Text(texto)
       ),
-    );
+    ); 
   }
 }
